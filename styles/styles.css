@@ -1,11 +1,22 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #fdfdfd;
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     font-family: 'Open Sans', sans-serif;
     color: #333;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-bottom: 5rem;
     margin-left: 5%;
     margin-right: 5%;
+}
+
+header {
+    background-image: url(https://www.todofondos.net/wp-content/uploads/1920x1200-Green-Full-HD-Fondo-de-pantalla-e-imagen-de-fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -22,13 +33,38 @@ h2 {
 
 #logo {
     width: 200px;
-    height: 200px;
+    height: 250px;
 }
 
 header > img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.navMenu {
+  position: center;
+  background: rgba(215, 231, 198, 0.5);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 6px );
+  -webkit-backdrop-filter: blur( 6px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.navMenu a {
+  color: #0e6325;
+  text-decoration: none;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+  width: 80px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.navMenu a:hover {
+  color: #fddb3a;
 }
 
 nav ul {
@@ -54,4 +90,66 @@ footer {
 
 footer div {
     flex: 1;
+}
+
+.articleStory {
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.article2 {
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-top: 3px;
+    margin-right: 2px;
+    margin-left: 3px;
+}
+
+.article3 {
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-top: 3px;
+    margin-left: 2px;
+}
+
+.article4 {
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-left: 2px;
+}
+
+.teamImage {
+    height: 200px;
+    width: 100%;
+}
+
+article p {
+    margin: 1rem;
+    text-align: center;
+}
+
+article h1 {
+    text-align: center;
+}
+
+article h2 {
+    text-align: center;
 }
