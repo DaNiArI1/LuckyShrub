@@ -36,6 +36,11 @@ h2 {
     height: 200px;
 }
 
+#logofooter {
+    width: 120px;
+    height: 180px;
+}
+
 header > img{
     display: block;
     margin-left: auto;
