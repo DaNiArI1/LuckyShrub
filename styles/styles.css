@@ -149,9 +149,8 @@ footer div {
 }
 
 .pricesImage {
-    height: 150px;
-    width: 50%;
-    position: fixed;
+    height: 180px;
+    width: 100%;
 }
 
 article p {
